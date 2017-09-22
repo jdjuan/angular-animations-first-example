@@ -1,4 +1,4 @@
-# Your First Angular Animation
+# Learn Animations in Angular
 
 ## 1. Let's import the animation dependencies 📋
 
